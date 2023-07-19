@@ -1,0 +1,48 @@
+Dias economicos: 
+--Colocar un contador en la base de datos, donde solo llegue a 14 solicitudes de dias economicos
+"si se llega al limite al año no dejara pedir mas dias economicos"
+"se pedira hasta un dia antes del dia economico"
+***Datos necesarios: nombre del profesor, numero de empleado y adscripcion
+--
+
+19/06/2023
+
+*colocar en la tabla users el id de adscripciones
+(ya que cada usuario tiene una adscripcion establecida)
+
+*Hacer que en el formulario de dias economicos, tambien se coloque en automatico su adscripcion al
+seleccionar el numero de empleado
+
+
+*validacion al escanear QR
+(si su status es inactivo no dejar hacer pase de lista) TERMINADO *****
+
+*Colocar descripciones en la parte de solicitudes
+
+*Hacer un modulo de record de usuarios
+(Cada usuario podra ver una tabla donde muestre sus asistencias e inasistencias
+para poder hacer sus omisiones de entrada o salida)
+
+
+
+
+FORMULARIO articulo 7
+
+Nombre
+No. empleado
+Adscripcion
+Puesto
+RETARDO, FALTA, OMISION ENTRADA, OMISION DE SALIDA Y SALIDA ANTICIPADA (SELECT LIST)
+FECHA DE LA INCIDENCIA
+"MOTIVO" SECCION
+
+
+
+MODULO BAJA TEMPORAL TERMINADO *****
+Colocar input para DESCRIPCION
+Colocar input para DURACION DE BAJA
+
+
+MODIFICAR TABLA BAJAS TERMINADO *****
+AÑADIR DESCRIBAJA
+AÑADIR DURABAJA

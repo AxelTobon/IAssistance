@@ -1,0 +1,32 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "Home",
+      "icon": "menu-icon tf-icons bx bx-home-circle",
+      "slug": "pages-home"
+    },
+    
+    {
+      "url": "/users/index",
+      "icon": "menu-icon tf-icons bx bxs-user-detail",
+      "name": "Usuarios",
+      "slug": "pages-page-2"
+    },
+    {
+      "url": "/solicitud/index",
+      "icon": "menu-icon tf-icons bx bxs-user-detail",
+      "name": "Solicitudes",
+      "slug": "solcitud-index"
+    },
+    {
+      "url": "/omisiones/show",
+      "icon": "menu-icon tf-icons bx bxs-user-detail",
+      "name": "Incidencias",
+      "slug": "omisiones-show"
+    }
+
+    
+  ]
+}
+
